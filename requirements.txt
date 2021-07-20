@@ -2,4 +2,5 @@ base58
 ecdsa
 bitcoin
 bit
+streamlit
 
