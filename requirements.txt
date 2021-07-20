@@ -1,4 +1,5 @@
-base58==1.0.0
-ecdsa==0.11
+base58  "
+ecdsa
 bitcoin
+bit
 
